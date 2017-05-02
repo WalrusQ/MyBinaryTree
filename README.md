@@ -1,1 +1,2 @@
 # MyBinaryTree
+Доделан метод remove.
